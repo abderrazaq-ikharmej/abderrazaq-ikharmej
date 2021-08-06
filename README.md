@@ -14,7 +14,7 @@
  
  <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=abderrazaq-ikharmej&&show_icons=true&theme=radical" alt="abderrazaq's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abderrazaq-ikharmej&&show_icons=true&theme=radical&count_private=true" alt="abderrazaq's Github Stats">
 </p>  
 
 ## Technical Skills 
