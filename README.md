@@ -55,4 +55,4 @@
  
 <p>Visit my profile and give a ⭐️ if you like it</p>
 
-⭐️ From [Abderrazaq ikharmej](https://github.com/AbderrazaqIkharmej)
+⭐️ From [Abderrazaq ikharmej](https://github.com/abderrazaq-ikharmej)
